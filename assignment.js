@@ -14,4 +14,4 @@ i = prompt("Enter third number");
 i = parseInt(i);
 arr.push(i);
 
-console.log(arr);
+document.write.innerHTML = (arr);
